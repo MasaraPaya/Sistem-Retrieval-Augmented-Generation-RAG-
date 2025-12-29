@@ -36,16 +36,24 @@ Pipeline sistem terdiri dari dua tahap utama:
 ## Repository Structure
 
 .
-├── Sistem_Retrieval_Augmented_Generation_(RAG).ipynb      # Eksperimen & embedding builder (heavy models)
-├── app.py                                                 # Streamlit app (fast & stable inference)
+├── Sistem_Retrieval_Augmented_Generation_(RAG).ipynb
+│   └── Eksperimen dan embedding builder (heavy models)
+│
+├── app.py
+│   └── Streamlit application (fast & stable inference)
+│
 ├── models/
 │   ├── embeddings.npy
 │   ├── labels_clean.npy
 │   ├── image_paths.npy
 │   └── faiss.index
+│
 ├── archive/
-│   └── images/                                            # Dataset images
+│   └── images/
+│       └── Dataset images
+│
 └── README.md
+
 
 ---
 
