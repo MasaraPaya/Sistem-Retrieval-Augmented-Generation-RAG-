@@ -1,0 +1,21 @@
+# Core
+numpy
+pillow
+tqdm
+
+# Deep Learning
+torch
+torchvision
+
+# Transformers & Multimodal
+transformers
+sentencepiece
+
+# Image Retrieval
+faiss-cpu
+
+# Visualization
+matplotlib
+
+# Web App
+streamlit
