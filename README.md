@@ -99,7 +99,7 @@ Aplikasi Streamlit menyediakan:
 ### Step 1: Clone Repository
 Clone repository ini ke komputer lokal.
 
-git clone https://github.com/username/repository-name.git
+git clone https://github.com/MasaraPaya/Sistem-Retrieval-Augmented-Generation-RAG-
 cd repository-name
 
 ---
